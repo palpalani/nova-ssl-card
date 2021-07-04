@@ -1,6 +1,6 @@
 <?php
 
-namespace Palpalani\NovaSslCard\Tests;
+namespace Marianvlad\NovaSslCard\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;

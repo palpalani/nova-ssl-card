@@ -1,6 +1,6 @@
 <?php
 
-namespace Palpalani\NovaSslCard\Tests;
+namespace Marianvlad\NovaSslCard\Tests;
 
 class ExampleTest extends TestCase
 {
